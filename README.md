@@ -4,7 +4,7 @@ Hi, I'm **David Oh** from Seoul of Republic of Korea.
 
 Here's get to know about me...
 
-- 🔭 I’m currently working on <a href="https://github.com/peoplus" target="_parent">PEOPLUS Studio</a> & <a href="https://github.com/xpressengine" target="_parent">XEHub</a>.
+- 🔭 I’m currently working on <a href="https://github.com/peoplus" target="_parent">PEOPLUS Studio</a>.
 - 🎨 I’m currently designing the Architecture & UI/UX of PEOPLUS Studio's products and services.
 - 🌱 I’m currently learning Server Backend Development and etc...
 - 👯 I’m looking to collaborate on you guys!
